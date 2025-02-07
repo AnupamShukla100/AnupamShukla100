@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anupam Shukla</h1>
 <h3 align="center">Full-Stack Developer | Lifelong Learner</h3>
 
-<h3 align="center">💬 Feel free to ask me about Full-Stack Development, Modern Web Technologies, or Open-Source Projects!</h3>
+<h2 align="center">💬 Feel free to ask me about Full-Stack Development, Modern Web Technologies, or Open-Source Projects!</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupamshukla100&label=Profile%20views&color=0e75b6&style=flat" alt="anupamshukla100" /> </p>
 
