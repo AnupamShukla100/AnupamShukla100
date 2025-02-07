@@ -5,6 +5,8 @@
 
 <h2 align="left">💫 A Little Bit More About Me</h2>
 
+<h6 align="left">I’m Prashant Kushwaha, a passionate Full-Stack Developer from Prayagraj, Uttar Pradesh, currently working as a Backend Developer at Doum, where I focus on building robust and scalable backend systems using TypeScript.</h6>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupamshukla100&label=Profile%20views&color=0e75b6&style=flat" alt="anupamshukla100" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anupamshukla100" alt="anupamshukla100" /></a> </p>
