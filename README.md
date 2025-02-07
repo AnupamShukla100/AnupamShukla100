@@ -9,6 +9,8 @@
 <h5 align="left">🎓 Currently a third-year student at AKGEC, applying knowledge to real-world projects while exploring the latest technologies.</h5>
 <h5 align="left">⚡ Passionate about building modern, scalable applications and enhancing user experiences through effective front-end and back-end solutions.</h5>
 
+<img src="https://camo.githubusercontent.com/0d7ef95b10e93801a3bd8637bec636064d518a4c73366504ed50b04cf32a5727/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f626f6f7473747261702d2532333536334437432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465" height="30px" data-canonical-src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" style="max-width: 100%;">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupamshukla100&label=Profile%20views&color=0e75b6&style=flat" alt="anupamshukla100" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anupamshukla100" alt="anupamshukla100" /></a> </p>
