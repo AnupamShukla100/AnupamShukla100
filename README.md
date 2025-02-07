@@ -3,13 +3,14 @@
 
 <h2 align="left">💬 Feel free to ask me about Full-Stack Development, Modern Web Technologies, or Open-Source Projects!</h2>
 
+<h2 align="left">💫 A Little Bit More About Me</h2>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupamshukla100&label=Profile%20views&color=0e75b6&style=flat" alt="anupamshukla100" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anupamshukla100" alt="anupamshukla100" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Paytm clone**
 
 - 🌱 I’m currently learning **backend,**
 
