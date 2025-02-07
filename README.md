@@ -7,6 +7,7 @@
 
 <h6 align="left">I’m Anupam Shukla, a passionate Full-Stack Developer from Gorakhpur, Uttar Pradesh, currently working as a Backend Developer at Doum, where I focus on building robust and scalable backend systems using TypeScript.</h6>
 <h6 align="left">🎓 Currently a third-year student at AKGEC, applying knowledge to real-world projects while exploring the latest technologies.</h6>
+<h6 align="left">⚡ Passionate about building modern, scalable applications and enhancing user experiences through effective front-end and back-end solutions.</h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupamshukla100&label=Profile%20views&color=0e75b6&style=flat" alt="anupamshukla100" /> </p>
 
