@@ -25,16 +25,11 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me</h2>
 <p align="left">
 <a href="https://linkedin.com/in/prashant-kushwaha-0807a1255" rel="nofollow"> 
 <img src="https://camo.githubusercontent.com/0c59c81be6c6e981fbad69ea742692368b3fdc1018090a34cb7764dfea5a1a91/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" height="30px" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"> 
 </a>
-<a href="https://instagram.com/anupam_shukla_100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anupam_shukla_100" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/anupamshukla99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anupamshukla99" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anupam shukla 100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anupam shukla 100" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/shuklaanil8d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shuklaanil8d" height="30" width="40" /></a>
-</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anupamshukla100&show_icons=true&locale=en&layout=compact" alt="anupamshukla100" /></p>
 
