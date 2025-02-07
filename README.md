@@ -1,4 +1,4 @@
-<h1 Hi 👋, I'm Anupam Shukla</h1>
+<h1 align="left"> Hi 👋, I'm Anupam Shukla</h1>
 <h3 align="center">Full-Stack Developer | Lifelong Learner</h3>
 
 <h2 align="center">💬 Feel free to ask me about Full-Stack Development, Modern Web Technologies, or Open-Source Projects!</h2>
